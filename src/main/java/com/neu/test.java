@@ -13,5 +13,6 @@ public class test {
         System.out.println("bbbb");
         System.out.println("cccc");
         System.out.println("push first");
+        System.out.println("push second");
     }
 }
