@@ -14,5 +14,6 @@ public class test {
         System.out.println("cccc");
         System.out.println("push first");
         System.out.println("push second");
+        System.out.println("push third");
     }
 }
